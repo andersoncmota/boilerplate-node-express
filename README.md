@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Boilerplate Node + Express" src="https://res.cloudinary.com/andersonmota/image/upload/v1588801747/boilerplate-node-express_drchh7.png" />
+  <img height="60" alt="Boilerplate Node + Express" src="https://res.cloudinary.com/andersonmota/image/upload/v1588801747/boilerplate-node-express_drchh7.png" />
   <br>
   Boilerplate Node + Express
 </h1>
@@ -8,7 +8,7 @@
   Sequelize, Dotenv, ESLint, Nodemon, Prettier e Sucrase.
 </h4>
 
-##Tecnologias
+## Tecnologias
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
