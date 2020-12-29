@@ -51,6 +51,9 @@ $ yarn init -y
 # Abra o projeto no VScode
 $ code .
 
+# Instale o Express
+$ yarn add express
+
 # Instale o ESLint
 $ yarn add eslint -D
 
@@ -64,7 +67,7 @@ $ yarn
 $ yarn add eslint-config-prettier eslint-plugin-import eslint-plugin-prettier nodemon prettier sequelize-cli sucrase -D
 
 # Instale as dependencias
-$ yarn add dotenv express sequelize
+$ yarn add dotenv sequelize
 ```
 
 Abra o arquivo "package.json" e acrescente o objeto abaixo:
